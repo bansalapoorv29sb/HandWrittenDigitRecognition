@@ -79,10 +79,3 @@ This script will:
 - Evaluate the model on the test dataset.
 - Display the classification results.
 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify the content to better suit your project and include additional sections as necessary (e.g., links to pre-trained models, citations for datasets, etc.).
